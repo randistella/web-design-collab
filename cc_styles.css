@@ -26,6 +26,20 @@ img, object, embed, video {
 	and Golden Grid System by Joni Korpi
 	http://goldengridsystem.com/
 */
+hr {
+	background-color: orange;
+	border: none;
+	height: 5px;
+}
+
+h1, h2 {
+	font-family: cursive;
+}
+.float_left { 
+	float: left;
+	padding: 10px;
+}
+
 .toprow {
     text-align: center;
     font-weight: 800;
@@ -245,6 +259,7 @@ margin-left: 0;
 .nav_ul_li {
 }
 .intro_paragraph {
+    text-align: left;
 }
 .paragraph_text {
 }
